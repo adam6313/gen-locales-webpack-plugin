@@ -1,0 +1,1 @@
+# gen-locales-webpack-plugin

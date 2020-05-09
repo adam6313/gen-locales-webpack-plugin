@@ -1,0 +1,10 @@
+{
+  "locale": ["zh", "en"],
+  "user": {
+    "info": {
+      "name": ["姓名", "Name"],
+      "age": ["年齡", "Age"]
+    }
+  },
+  "country": ["國家", "country"]
+}

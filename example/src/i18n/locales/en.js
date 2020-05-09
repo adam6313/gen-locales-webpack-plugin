@@ -1,0 +1,1 @@
+/* eslint-disable */  export default ({'locale':'en','user':{'info':{'name':'Name','age':'Age',},},'country':'country',})
