@@ -13,5 +13,12 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam6313/gen-locales-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adam6313/gen-locales-webpack-plugin/issues"
   }
 }
